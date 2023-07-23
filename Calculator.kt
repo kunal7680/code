@@ -118,7 +118,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun cleanInput(view:View){
-        inputbox.text=""
+        inputbox.text="H"
         newop=true
         dot=false
     }
